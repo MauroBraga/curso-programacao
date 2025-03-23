@@ -1,6 +1,7 @@
 package br.com.mrb.cursoprogramacao.modules.curso.controller;
 
 import br.com.mrb.cursoprogramacao.modules.curso.dto.CursoRequest;
+import br.com.mrb.cursoprogramacao.modules.curso.dto.CursoResponse;
 import br.com.mrb.cursoprogramacao.modules.curso.entity.CursoEntity;
 import br.com.mrb.cursoprogramacao.modules.curso.usecase.*;
 import org.springframework.beans.factory.annotation.Autowired;
